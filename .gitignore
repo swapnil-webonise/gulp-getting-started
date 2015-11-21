@@ -1,0 +1,16 @@
+# Ignore idea folder
+.idea
+.DS_Store
+.sonar
+
+# Ignore bower components
+/bower_components
+
+# Ignore the NPM error log
+npm-debug.log
+
+# Ignore build directory
+/build
+
+# Ignore node modules
+/node_modules

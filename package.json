@@ -1,0 +1,19 @@
+{
+  "name": "gulp-getting-started",
+  "version": "1.0.0",
+  "description": "Getting with gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil-webonise/gulp-getting-started.git"
+  },
+  "author": "Swapnil Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil-webonise/gulp-getting-started/issues"
+  },
+  "homepage": "https://github.com/swapnil-webonise/gulp-getting-started#readme"
+}
