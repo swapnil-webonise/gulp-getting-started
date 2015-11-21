@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swapnil-webonise/gulp-getting-started/issues"
   },
-  "homepage": "https://github.com/swapnil-webonise/gulp-getting-started#readme"
+  "homepage": "https://github.com/swapnil-webonise/gulp-getting-started#readme",
+  "dependencies": {
+    "gulp": "~3.9.0"
+  }
 }
