@@ -1,0 +1,22 @@
+{
+  "indent": 2,
+  "white": true,
+  "node": true,
+  "undef": true,
+  "unused": true,
+  "-W058": true,
+  "-W014": true,
+  "expr": true,
+  "predef": [
+    "angular",
+    "location",
+    "ga",
+    "document",
+    "$",
+    "window",
+    "btoa",
+    "md5",
+    "localStorage",
+    "_"
+  ]
+}

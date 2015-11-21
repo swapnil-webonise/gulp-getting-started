@@ -14,3 +14,5 @@ npm-debug.log
 
 # Ignore node modules
 /node_modules
+
+jshint-output.log

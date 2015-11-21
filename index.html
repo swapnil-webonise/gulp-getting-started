@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html data-ng-app="MyApp" ng-controller="MyAppCtrl">
     <head>
-        <title>Getting started with gulp</title>
+        <title>Getting started with Gulp</title>
+        <link rel="stylesheet" type="text/css" href="css/style.min.css">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
     </head>
     <body>
-        <img src="app/images/contactUs.jpg">
+        <h1 data-ng-bind="heading"></h1>
+        <img src="images/contactUs.jpg" />
+        <script src="js/all.min.js" type="text/javascript"></script>
     </body>
 </html>
