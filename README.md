@@ -1,12 +1,17 @@
 # gulp-getting-started
 
-1. Clone project
-2. Install project dependencies
+1. Clone repository
+2. Install dependencies
    * Install node
 
      ```
      $ sudo apt-get update
      $ sudo apt-get install nodejs
+     ```
+   * Install gulp globally
+
+     ```
+     $ npm install --global gulp
      ```
    * Install node packages
 
